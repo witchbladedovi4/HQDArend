@@ -86,3 +86,19 @@
 
 # Ссылка на доску
 https://hqdarend.kaiten.ru/space/543344/boards?sm=batch
+
+# Используемый стек технологий
+   - Frontend:
+     - HTML, CSS, JavaScript (библиотеки: React или Vue.js)
+   - Backend:
+     - Node.js с Express или Python с Flask/Django
+   - База данных:
+     - PostgreSQL или MongoDB
+   - Аутентификация:
+     - JSON Web Tokens (JWT)
+   - Хостинг:
+     - Heroku, AWS или DigitalOcean
+   - Дополнительные инструменты:
+     - Docker для контейнеризации
+     - Git для управления версиями
+     - Swagger для документирования API
